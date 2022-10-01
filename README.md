@@ -1,4 +1,3 @@
 # git-test2
-my first gitHub
-"hello odin"
+Hola este es mi primer repositorio de Github
 
